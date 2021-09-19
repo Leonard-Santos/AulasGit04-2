@@ -1,0 +1,24 @@
+{
+  "name": "aulasgit04",
+  "version": "1.0.0",
+  "description": "Aplicativo da Aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonard-Santos/AulasGit04.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "Aula",
+    "Teste"
+  ],
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonard-Santos/AulasGit04/issues"
+  },
+  "homepage": "https://github.com/Leonard-Santos/AulasGit04#readme"
+}
